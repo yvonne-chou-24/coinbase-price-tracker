@@ -20,3 +20,6 @@ Streaming pipeline which tracks and transforms cryptocurrency prices using Coinb
   3. Script writes to a Kafka topic, which is running via Confluent's managed services. 
   4. Use Spark in AWS EMR to consume from the Kafka topic and transform it accordingly. 
   5. Stream data to an object store (S3) and database (DynamoDB) for further transformations. 
+  
+# Installation Guide: 
+https://sourabhbajaj.com/mac-setup/
