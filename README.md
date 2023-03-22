@@ -8,7 +8,7 @@ Streaming pipeline which tracks and transforms cryptocurrency prices using Coinb
   * Docker
   * Python
   * Kafka (Confluent)
-  * Spark (AWS EMR)
+  * Spark Streaming, PySpark, SparkSQL (AWS EMR)
   * Delta Lake
   * S3
   * DynamoDB
